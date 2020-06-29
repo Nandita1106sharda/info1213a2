@@ -1,0 +1,35 @@
+
+h3{
+	font-size: 25px;
+	text-transform: uppercase;
+    color: #264d00;
+    letter-spacing: 0.2rem;
+    text-decoration: underline;
+}/* used to modify all the headings on the page*/
+p{
+
+	font-size: 20px;
+	line-height: 1.5;
+} /*for all the content under the headings*/
+
+
+li{
+	
+	font-size: 20px;
+	line-height: 2.0;
+} /*for all the listed material*/
+
+.jumbotron{
+
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	padding: 70px;
+
+}
+
+.container{
+	font-weight: bold;
+	font-color:red;
+}

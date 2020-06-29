@@ -1,0 +1,87 @@
+
+#Summary{
+	font-size: 20px; /*adjusts the size of the font*/
+	line-height: 2.0; /*adjusts the spacing between the lines*/
+} /*adds features to the professional summary*/
+
+div{
+	font-family: 'PT Serif', serif; /*adds a font style to the selected font*/
+	color: black; /*adds color to the font*/
+} /*adds properties to the personal information provided*/
+
+.experience{
+	border: 5px solid #4d4d4d;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 50px;
+
+} /*add border to both education and work field*/
+h3{
+	font-family: 'Inconsolata', monospace;
+    color: #264d00;
+    font-size: 25px;
+    font-weight: 800; /*shows how much bold or light the text will be*/
+
+} /*adds these properties to all the h3 in the html file*/
+.work{
+	font-family:Light 300 italic ;
+	font-weight: 500;
+	font-size: 20px;
+	text-transform: uppercase; /*can transform the txt appearance*/
+	letter-spacing: 0.2rem; /*introduces spaces between the letters*/
+} /*class used to modify duties of given jobs*/
+#edu{
+	line-height: 2.0;
+} /*id added to educational information*/
+.heading{
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	text-decoration: underline;
+	margin-top: 100px;
+} /*class modifying the headings: professional summary, work experience and education*/
+
+#link{
+	text-align: center; /*used to align the text*/
+	margin-top: 50px;
+	font-size: 15px;
+	font-weight: bold;
+} /*id used to add physical features to the hyperlink provided*/
+
+.jumbotron{
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-top: 50px;
+}
+.container{
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	padding: 70px;
+	text-align: center;
+}
+
+.navbar{
+	background-color: black;
+	color: white;
+}
+
+li a {
+	margin-left: 200px;
+}
+/*.topnav {
+  background-color: black;
+  }
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+*/
